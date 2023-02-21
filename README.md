@@ -11,7 +11,7 @@ I am a computer science student and actually I'm developing some projects in my 
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnielMantov&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnielMantov&layout=compact&theme=github_dark)
 
 ## 🌎 Social Media
 - [LinkedIn](https://www.linkedin.com/in/daniel-mantovani-7671b4237/)
