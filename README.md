@@ -12,10 +12,6 @@ AI and Backend Developer focused on applications built with large language model
 
 **AI and LLMs**: LangChain, LangGraph, RAG, multi-agent systems, prompt engineering, OpenAI and Google Gemini APIs
 
-**Languages**: Python, Java, Shell Script
-
-**Tools**: Docker, Git, GitHub Actions, Linux
-
 ![Skills](https://skillicons.dev/icons?i=python,java,docker,git,linux)
 
 ## Publications 📄
