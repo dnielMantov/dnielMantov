@@ -1,14 +1,26 @@
-# Daniel Mantovani — @dnielMantov
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+👋)](https://git.io/typing-svg)
 
-<!-- ## 💡 Technologies & Tools
+AI and Backend Developer focused on applications built with large language models.
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+## What I work with 💡
 
-## 📊 Stats
+- Multi-agent workflows generated from natural language descriptions, orchestrated with LangGraph and LangChain.
+- Conversational bots built on RAG pipelines, combining retrieval over verified data sources with LLM based reasoning.
+- Backend services and APIs integrating OpenAI and Google Gemini models into production systems.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnielMantov&layout=compact&theme=github_dark)
+## Stack ⚙️
 
-## 🌎 Social Media
-- [LinkedIn](https://www.linkedin.com/in/daniel-mantovani-7671b4237/)
+**AI and LLMs**: LangChain, LangGraph, RAG, multi-agent systems, prompt engineering, OpenAI and Google Gemini APIs
+
+**Languages**: Python, Java, Shell Script
+
+**Tools**: Docker, Git, GitHub Actions, Linux
+
+![Skills](https://skillicons.dev/icons?i=python,java,docker,git,linux)
+
+## Publications 📄
+
+- Co-author of a paper on multi-agent workflow generation, published at WebMedia 2025 (SBC).
+- Co-author of a paper on a RAG based fact-checking bot, under review at WFA.
+
+> Trust the process. Verify the output.
